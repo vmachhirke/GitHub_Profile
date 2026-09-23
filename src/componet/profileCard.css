@@ -1,0 +1,28 @@
+.main2{
+    background:#161b22;
+    border:1px solid #30363d;
+    border-radius:15px;
+    padding:20px;
+    text-align:center;
+}
+
+.image{
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    object-fit:cover;
+    margin-bottom:15px;
+}
+
+.main2 h1{
+    color:white;
+    margin-bottom:15px;
+}
+
+.main2 a{
+    text-decoration:none;
+    color:white;
+    background:#238636;
+    padding:10px 18px;
+    border-radius:8px;
+}
