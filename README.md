@@ -125,8 +125,8 @@ This project is licensed under the MIT License.
 
 **Vaishnavi Machhirke**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Vaishnavi Machhirke](https://linkedin.com/in/yourprofile)
+- GitHub: (https://github.com/vmachhirke?tab=repositories)
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-machhirke/
 
 
 ---
